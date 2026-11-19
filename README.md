@@ -186,4 +186,6 @@ Embedded Systems Engineer
 
 ## License
 
-This project is intended for educational and research purposes. No formal open-source license has been specified.
+This project is intended for educational and research purposes. No formal open-source license has been specified.<img width="1600" height="719" alt="lora_receive" src="https://github.com/user-attachments/assets/b46ba462-82a5-4b67-a5b6-02b96288f167" />
+<img width="1600" height="719" alt="transmit_receive_lora" src="https://github.com/user-attachments/assets/86a7c0c2-1071-48aa-a597-4c38fe12eba6" />
+
